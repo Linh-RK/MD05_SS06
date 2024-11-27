@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "productName": "product 1",
+    "image": "https://i.pinimg.com/736x/7e/77/37/7e7737c0aff5d5beb380452e3c6c4d81.jpg",
+    "price": 2000,
+    "stock": 20
+  },
+  {
+    "id": 2,
+    "productName": "product 2",
+    "image": "https://i.pinimg.com/736x/7e/77/37/7e7737c0aff5d5beb380452e3c6c4d81.jpg",
+    "price": 2000,
+    "stock": 20
+  },
+  {
+    "id": 3,
+    "productName": "product 3",
+    "image": "https://i.pinimg.com/736x/7e/77/37/7e7737c0aff5d5beb380452e3c6c4d81.jpg",
+    "price": 2000,
+    "stock": 20
+  },
+  {
+    "id": 4,
+    "productName": "product 4",
+    "image": "https://i.pinimg.com/736x/7e/77/37/7e7737c0aff5d5beb380452e3c6c4d81.jpg",
+    "price": 2000,
+    "stock": 20
+  },
+  {
+    "id": 5,
+    "productName": "product 5",
+    "image": "https://i.pinimg.com/736x/7e/77/37/7e7737c0aff5d5beb380452e3c6c4d81.jpg",
+    "price": 2000,
+    "stock": 20
+  },
+  {
+    "id": 6,
+    "productName": "product 6",
+    "image": "https://i.pinimg.com/736x/7e/77/37/7e7737c0aff5d5beb380452e3c6c4d81.jpg",
+    "price": 2000,
+    "stock": 20
+  },
+  {
+    "id": 7,
+    "productName": "product 7",
+    "image": "https://i.pinimg.com/736x/7e/77/37/7e7737c0aff5d5beb380452e3c6c4d81.jpg",
+    "price": 2000,
+    "stock": 20
+  },
+  {
+    "id": 8,
+    "productName": "product 8",
+    "image": "https://i.pinimg.com/736x/7e/77/37/7e7737c0aff5d5beb380452e3c6c4d81.jpg",
+    "price": 2000,
+    "stock": 20
+  }
+]
